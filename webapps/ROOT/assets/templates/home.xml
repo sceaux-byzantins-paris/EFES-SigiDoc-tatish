@@ -73,7 +73,7 @@
           </div> 
             <div class="panel radius">
 
-              <!-- <div class="landing-img" id="site-title"></div> -->
+               <div class="landing-img" id="site-title"></div> 
               <p>Les sceaux byzantins présentés ici constituent l'édition numérique de la
                 publication donnée en 2019 par Jean-Claude Cheynet aux bulles appartenant à la
                 collection privée de M. <a href="http://viaf.org/viaf/48683064" target="_blank"
@@ -170,7 +170,7 @@
                       License</a>.</p>
                 </div>
               </div>
-            </div>
+            </div>-->
           </div>
         </div>
       </main>
